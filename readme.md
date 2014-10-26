@@ -19,7 +19,7 @@ $ git clone https://github.com/tvararu/dotfiles-setup
 $ cd dotfiles-setup
 ```
 
-Edit the `install.sh` file, replacing the `curl` URL with the one leading to your dotfile repo's tarball. Then, add your dokku git remote:
+Edit the `install.sh` file, replacing the `curl` URL with the one leading to your dotfile repo's tarball. Commit, and then, add your dokku git remote:
 
 ```bash
 $ git remote add dokku dokku@myname.me:setup
