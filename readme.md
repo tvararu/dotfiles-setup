@@ -1,4 +1,4 @@
-#### dotfiles install server.
+## dotfiles install server.
 
 This is a lightweight `express` server that will simply serve the contents of `install.sh` at the specified port.
 
