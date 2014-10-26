@@ -1,0 +1,26 @@
+{
+  "name": "dotfiles-setup",
+  "version": "1.0.0",
+  "description": "Lightweight install script server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tvararu/dotfiles-setup.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvararu/dotfiles-setup/issues"
+  },
+  "homepage": "https://github.com/tvararu/dotfiles-setup",
+  "dependencies": {
+    "express": "^4.10.0"
+  }
+}
